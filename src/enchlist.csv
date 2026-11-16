@@ -1,0 +1,44 @@
+Name,Id,MaxLevel
+Aqua Affinity,aqua_affinity,I
+Bane of Arthropods,bane_of_arthropods,V
+Blast Protection,blast_protection,IV
+Breach,breach,IV
+Channeling,channeling,I
+Curse of Binding,binding_curse,I
+Curse of Vanishing,vanishing_curse,I
+Density,density,V
+Depth Strider,depth_strider,III
+Efficiency,efficiency,V
+Feather Falling,feather_falling,IV
+Fire Aspect,fire_aspect,II
+Fire Protection,fire_protection,IV
+Flame,flame,I
+Fortune,fortune,III
+Frost Walker,frost_walker,II
+Impaling,impaling,V
+Infinity,infinity,I
+Knockback,knockback,II
+Looting,looting,III
+Loyalty,loyalty,III
+Luck of the Sea,luck_of_the_sea,III
+Lunge,lunge,III
+Lure,lure,III
+Mending,mending,I
+Multishot,multishot,I
+Piercing,piercing,IV
+Power,power,V
+Projectile Protection,projectile_protection,IV
+Protection,protection,IV
+Punch,punch,II
+Quick Charge,quick_charge,III
+Respiration,respiration,III
+Riptide,riptide,III
+Sharpness,sharpness,V
+Silk Touch,silk_touch,I
+Smite,smite,V
+Soul Speed,soul_speed,III
+Sweeping Edge,sweeping_edge,III
+Swift Sneak,swift_sneak,III
+Thorns,thorns,III
+Unbreaking,unbreaking,III
+Wind Burst,wind_burst,III
